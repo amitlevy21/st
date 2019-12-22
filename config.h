@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "mono:pixelsize=18:antialias=true:autohint=true";
+static char *font = "MesloLGL Nerd Font Mono:style=RegularForPowerline:pixelsize=18:antialias=true:autohint=true";
 static char *font2[] = { "Inconsolata for Powerline:pixelsize=18:antialias=true:autohint=true" };
 static int borderpx = 2;
 
